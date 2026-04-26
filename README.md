@@ -40,7 +40,7 @@ cp .env.example .env.local
 ```
 
 ### Environment Variables
-Create `.env.local` in the root:
+Create `.env.local` in the root.
 
 ### Run Development Server
 ```bash
