@@ -28,10 +28,10 @@ export function Offices({ invert = false, ...props }) {
         </Office>
       </li>
       <li>
-        <Office name="Bangalore" invert={invert}>
-          3rd Floor, Prestige Tech Park
+        <Office name="Chandigarh" invert={invert}>
+          2nd Floor, Elante Office Park
           <br />
-          Bangalore, Karnataka 560103, India
+          Chandigarh, Punjab 160002, India
         </Office>
       </li>
     </ul>

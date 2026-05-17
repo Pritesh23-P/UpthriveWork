@@ -50,10 +50,10 @@ function DribbbleIcon(props) {
 }
 
 export const socialMediaProfiles = [
-  { title: 'Facebook', href: 'https://facebook.com', icon: FacebookIcon },
-  { title: 'Instagram', href: 'https://instagram.com', icon: InstagramIcon },
-  { title: 'Whatsapp', href: 'https://whatsapp.com', icon: WhatsAppIcon },
-  { title: 'Dribbble', href: 'https://dribbble.com', icon: DribbbleIcon },
+  { title: 'Facebook', href: 'https://www.facebook.com/profile.php?id=61589908862183', icon: FacebookIcon },
+  { title: 'Instagram', href: 'https://www.instagram.com/upthrivework/', icon: InstagramIcon },
+  { title: 'Whatsapp', href: 'https://wa.me/916202624407', icon: WhatsAppIcon },
+  { title: 'Dribbble', href: 'https://dribbble.com/upthrive-work', icon: DribbbleIcon },
 ]
 
 export function SocialMedia({ className, invert = false }) {
